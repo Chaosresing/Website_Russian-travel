@@ -3,8 +3,8 @@
 ![site presentation](./images/1-06-09-2023-10_42_50.gif)
 
 ### Technology stack
-* ![html](./images/1.png)HTML
-* ![CSS](./images/2.png)CSS
+* HTML
+* CSS
 * BEM
 * Adaptive layout
 
