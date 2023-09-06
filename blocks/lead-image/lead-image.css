@@ -1,0 +1,29 @@
+.lead-image {
+  margin: 0 auto;
+  max-width: 984px;
+  padding-top: 64px;
+}
+
+@media (max-width: 1024px){
+  .lead-image {
+    max-width: 928px;
+    padding-top: 53px;
+  }
+}
+
+@media (max-width: 768px){
+  .lead-image {
+    min-width: 768px;
+  }
+}
+
+@media (max-width: 320px){
+  .lead-image {
+    padding-top: 10px;
+    min-width: 320px;
+  }
+}
+
+
+
+

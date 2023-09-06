@@ -1,0 +1,25 @@
+.place-website__url-heading {
+  font-family: 'Inter' , Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #AAA;
+  text-transform: uppercase;
+  margin: 0;
+  padding-bottom: 7px;
+}
+
+@media (max-width: 768px){
+  .place-website__url-heading {
+    padding-top: 10px;
+  }
+}
+
+@media (max-width: 320px){
+  .place-website__url-heading {
+    padding-bottom: 0;
+    padding-top: 0px;
+  }
+}

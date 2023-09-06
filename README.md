@@ -10,4 +10,4 @@
 
 **Description**
 
-This website was a homework assignment from Yandex course. The goal of the assignment was to create a responsive website based on a design from Figma, without any functionality, using HTML and CSS technologies111
+This website was a homework assignment from Yandex course. The goal of the assignment was to create a responsive website based on a design from Figma, without any functionality, using HTML and CSS technologies
